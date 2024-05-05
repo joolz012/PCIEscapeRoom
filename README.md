@@ -1,2 +1,2 @@
 PCI application test
-Done within 2 days
+Finished in 2 days
