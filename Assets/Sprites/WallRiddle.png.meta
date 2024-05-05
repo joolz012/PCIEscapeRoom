@@ -1,0 +1,874 @@
+fileFormatVersion: 2
+guid: f8962d3996680cd47949f31af2dcf0cb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6895347227860815623
+    second: WallRiddle_0
+  - first:
+      213: 5787942528598327272
+    second: WallRiddle_1
+  - first:
+      213: -9160763776300988024
+    second: WallRiddle_2
+  - first:
+      213: -7872732302970286965
+    second: WallRiddle_3
+  - first:
+      213: 8447841046982298845
+    second: WallRiddle_4
+  - first:
+      213: 6230425835891578042
+    second: WallRiddle_5
+  - first:
+      213: -802691096749451208
+    second: WallRiddle_6
+  - first:
+      213: -7855918820168158906
+    second: WallRiddle_7
+  - first:
+      213: -3474089916970099068
+    second: WallRiddle_8
+  - first:
+      213: -4561247989758334316
+    second: WallRiddle_9
+  - first:
+      213: -7838293394675269291
+    second: WallRiddle_10
+  - first:
+      213: 6345574576657226675
+    second: WallRiddle_11
+  - first:
+      213: 516815907964962192
+    second: WallRiddle_12
+  - first:
+      213: 6963168956452839379
+    second: WallRiddle_13
+  - first:
+      213: 4858916080487027377
+    second: WallRiddle_14
+  - first:
+      213: -6743870623018294411
+    second: WallRiddle_15
+  - first:
+      213: 3105096610567405011
+    second: WallRiddle_16
+  - first:
+      213: 5894507025741811974
+    second: WallRiddle_17
+  - first:
+      213: -547005750997106629
+    second: WallRiddle_18
+  - first:
+      213: 5617085009251758500
+    second: WallRiddle_19
+  - first:
+      213: -7866442234062023340
+    second: WallRiddle_20
+  - first:
+      213: -648235176659256450
+    second: WallRiddle_21
+  - first:
+      213: 5317512719023126552
+    second: WallRiddle_22
+  - first:
+      213: -7728108247594342811
+    second: WallRiddle_23
+  - first:
+      213: -5152611923368001116
+    second: WallRiddle_24
+  - first:
+      213: 4871704139174254330
+    second: WallRiddle_25
+  - first:
+      213: -1467593744905197069
+    second: WallRiddle_26
+  - first:
+      213: -825900480914432238
+    second: WallRiddle_27
+  - first:
+      213: -6088870049720520717
+    second: WallRiddle_28
+  - first:
+      213: -5094930458099447840
+    second: WallRiddle_29
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WallRiddle_0
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 246
+        width: 187
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f0b168ba3ece40a0800000000000000
+      internalID: -6895347227860815623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallRiddle_1
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 246
+        width: 222
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8efba7d5017e25050800000000000000
+      internalID: 5787942528598327272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallRiddle_2
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 250
+        width: 78
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 889405a91ed6ed080800000000000000
+      internalID: -9160763776300988024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallRiddle_3
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 246
+        width: 284
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c86b59eaf6eb290800000000000000
+      internalID: -7872732302970286965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallRiddle_4
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 245
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddc08547ca2cc3570800000000000000
+      internalID: 8447841046982298845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallRiddle_5
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 230
+        width: 105
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab4dbbb994be67650800000000000000
+      internalID: 6230425835891578042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallRiddle_6
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 246
+        width: 232
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83851e943b44cd4f0800000000000000
+      internalID: -802691096749451208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallRiddle_7
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 244
+        width: 162
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 641329b947b2af290800000000000000
+      internalID: -7855918820168158906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallRiddle_8
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 230
+        width: 77
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e1b3580ad89cfc0800000000000000
+      internalID: -3474089916970099068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallRiddle_9
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 245
+        width: 179
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a6dfdae1133b0c0800000000000000
+      internalID: -4561247989758334316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallRiddle_10
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 159
+        width: 93
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5510715cfa9c83390800000000000000
+      internalID: -7838293394675269291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallRiddle_11
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 158
+        width: 204
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb57690572001850800000000000000
+      internalID: 6345574576657226675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallRiddle_12
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 159
+        width: 121
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 095c58084591c2700800000000000000
+      internalID: 516815907964962192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallRiddle_13
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 158
+        width: 296
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3df1660064522a060800000000000000
+      internalID: 6963168956452839379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallRiddle_14
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 143
+        width: 105
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b2dcda7e665e6340800000000000000
+      internalID: 4858916080487027377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallRiddle_15
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 158
+        width: 296
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5736dcf1665f862a0800000000000000
+      internalID: -6743870623018294411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallRiddle_16
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 159
+        width: 121
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ddb3227ae4871b20800000000000000
+      internalID: 3105096610567405011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallRiddle_17
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 159
+        width: 264
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6019263d8ee7dc150800000000000000
+      internalID: 5894507025741811974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallRiddle_18
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 72
+        width: 137
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30c8b9ea25a868f0800000000000000
+      internalID: -547005750997106629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallRiddle_19
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 78
+        width: 121
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a17f992e05e3fd40800000000000000
+      internalID: 5617085009251758500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallRiddle_20
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 72
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4555a906778c4d290800000000000000
+      internalID: -7866442234062023340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallRiddle_21
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 73
+        width: 112
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7bff449a810107f0800000000000000
+      internalID: -648235176659256450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallRiddle_22
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 66
+        width: 395
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 818bef105a99bc940800000000000000
+      internalID: 5317512719023126552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallRiddle_23
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 56
+        width: 105
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5666f5c7e7e30c490800000000000000
+      internalID: -7728108247594342811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallRiddle_24
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 56
+        width: 137
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a1453261ce3e78b0800000000000000
+      internalID: -5152611923368001116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallRiddle_25
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 78
+        width: 122
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af6184a6a15cb9340800000000000000
+      internalID: 4871704139174254330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallRiddle_26
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 70
+        width: 164
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f92750c34f02abe0800000000000000
+      internalID: -1467593744905197069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallRiddle_27
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 73
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21f554f63efc984f0800000000000000
+      internalID: -825900480914432238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallRiddle_28
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 66
+        width: 160
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ffa4e233fcff7ba0800000000000000
+      internalID: -6088870049720520717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallRiddle_29
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 66
+        width: 278
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e70aa11ebb2b49b0800000000000000
+      internalID: -5094930458099447840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      WallRiddle_0: -6895347227860815623
+      WallRiddle_1: 5787942528598327272
+      WallRiddle_10: -7838293394675269291
+      WallRiddle_11: 6345574576657226675
+      WallRiddle_12: 516815907964962192
+      WallRiddle_13: 6963168956452839379
+      WallRiddle_14: 4858916080487027377
+      WallRiddle_15: -6743870623018294411
+      WallRiddle_16: 3105096610567405011
+      WallRiddle_17: 5894507025741811974
+      WallRiddle_18: -547005750997106629
+      WallRiddle_19: 5617085009251758500
+      WallRiddle_2: -9160763776300988024
+      WallRiddle_20: -7866442234062023340
+      WallRiddle_21: -648235176659256450
+      WallRiddle_22: 5317512719023126552
+      WallRiddle_23: -7728108247594342811
+      WallRiddle_24: -5152611923368001116
+      WallRiddle_25: 4871704139174254330
+      WallRiddle_26: -1467593744905197069
+      WallRiddle_27: -825900480914432238
+      WallRiddle_28: -6088870049720520717
+      WallRiddle_29: -5094930458099447840
+      WallRiddle_3: -7872732302970286965
+      WallRiddle_4: 8447841046982298845
+      WallRiddle_5: 6230425835891578042
+      WallRiddle_6: -802691096749451208
+      WallRiddle_7: -7855918820168158906
+      WallRiddle_8: -3474089916970099068
+      WallRiddle_9: -4561247989758334316
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

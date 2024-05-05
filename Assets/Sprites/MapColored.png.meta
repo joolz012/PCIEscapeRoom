@@ -1,0 +1,1024 @@
+fileFormatVersion: 2
+guid: 8dcccb9512e58324a8fa9952aefbe4f6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6662072696272016307
+    second: MapColored_0
+  - first:
+      213: -6565593158172815437
+    second: MapColored_1
+  - first:
+      213: 8207039474491699713
+    second: MapColored_2
+  - first:
+      213: -2995946779182932003
+    second: MapColored_3
+  - first:
+      213: -567306739538464666
+    second: MapColored_4
+  - first:
+      213: -8598480966491214634
+    second: MapColored_5
+  - first:
+      213: -2149109597283884973
+    second: MapColored_6
+  - first:
+      213: -5851913191983853397
+    second: MapColored_7
+  - first:
+      213: -185335679464283212
+    second: MapColored_8
+  - first:
+      213: -7928198381735859484
+    second: MapColored_9
+  - first:
+      213: -668035513144328809
+    second: MapColored_10
+  - first:
+      213: 7189329900431558794
+    second: MapColored_11
+  - first:
+      213: 7217264996516561753
+    second: MapColored_12
+  - first:
+      213: -2018371554038954417
+    second: MapColored_13
+  - first:
+      213: -8278601427221163018
+    second: MapColored_14
+  - first:
+      213: 20629632417423676
+    second: MapColored_15
+  - first:
+      213: 2841678163961104469
+    second: MapColored_16
+  - first:
+      213: -1050466042068364597
+    second: MapColored_17
+  - first:
+      213: 6117614683545351093
+    second: MapColored_18
+  - first:
+      213: -3299915412479090932
+    second: MapColored_19
+  - first:
+      213: 2513225584811975432
+    second: MapColored_20
+  - first:
+      213: -5499357893255007111
+    second: MapColored_21
+  - first:
+      213: -5957806602292263655
+    second: MapColored_22
+  - first:
+      213: -3373758825967292257
+    second: MapColored_23
+  - first:
+      213: -5189977494168956066
+    second: MapColored_24
+  - first:
+      213: -207406536617772342
+    second: MapColored_25
+  - first:
+      213: 6741975146647377656
+    second: MapColored_26
+  - first:
+      213: -7371298915149776336
+    second: MapColored_27
+  - first:
+      213: 7385816924302773125
+    second: MapColored_28
+  - first:
+      213: 3763180180875770754
+    second: MapColored_29
+  - first:
+      213: -5506000605612084774
+    second: MapColored_30
+  - first:
+      213: 4639645350661483917
+    second: MapColored_31
+  - first:
+      213: 8300273696226867782
+    second: MapColored_32
+  - first:
+      213: -1933813348633921422
+    second: MapColored_33
+  - first:
+      213: 922855724697128359
+    second: MapColored_34
+  - first:
+      213: -4967962336783807860
+    second: MapColored_35
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MapColored_0
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1739
+        width: 305
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b35f11f1df647c50800000000000000
+      internalID: 6662072696272016307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapColored_1
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1739
+        width: 302
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bfcf530fc352e4a0800000000000000
+      internalID: -6565593158172815437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapColored_2
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 1739
+        width: 300
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 102bfa65be245e170800000000000000
+      internalID: 8207039474491699713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapColored_3
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 1739
+        width: 300
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf53dc07424c66d0800000000000000
+      internalID: -2995946779182932003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapColored_4
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 1739
+        width: 302
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660ff1fa6858028f0800000000000000
+      internalID: -567306739538464666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapColored_5
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 1739
+        width: 306
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dc65502e1f0ca880800000000000000
+      internalID: -8598480966491214634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapColored_6
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1417
+        width: 309
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 350e28e2534dc22e0800000000000000
+      internalID: -2149109597283884973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapColored_7
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1417
+        width: 306
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba05167e4f3d9cea0800000000000000
+      internalID: -5851913191983853397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapColored_8
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 1417
+        width: 303
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b363557e2e8d6df0800000000000000
+      internalID: -185335679464283212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapColored_9
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 1417
+        width: 303
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eaaec3c39169f190800000000000000
+      internalID: -7928198381735859484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapColored_10
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 1417
+        width: 306
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79dbfad7d39aab6f0800000000000000
+      internalID: -668035513144328809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapColored_11
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 1417
+        width: 309
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8841582471a5c360800000000000000
+      internalID: 7189329900431558794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapColored_12
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1089
+        width: 312
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9530b3f8640e82460800000000000000
+      internalID: 7217264996516561753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapColored_13
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1089
+        width: 310
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4641c0f3cd4df3e0800000000000000
+      internalID: -2018371554038954417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapColored_14
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1089
+        width: 306
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3d0752ddf7c1d80800000000000000
+      internalID: -8278601427221163018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapColored_15
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 1089
+        width: 306
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3166189a8a494000800000000000000
+      internalID: 20629632417423676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapColored_16
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 1089
+        width: 310
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 558c2e8fb3baf6720800000000000000
+      internalID: 2841678163961104469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapColored_17
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 1089
+        width: 312
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc297e943befb61f0800000000000000
+      internalID: -1050466042068364597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapColored_18
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 754
+        width: 315
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b33f65642226e450800000000000000
+      internalID: 6117614683545351093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapColored_19
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 754
+        width: 312
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0fd8528a685432d0800000000000000
+      internalID: -3299915412479090932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapColored_20
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 754
+        width: 309
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 803242f8a55c0e220800000000000000
+      internalID: 2513225584811975432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapColored_21
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 754
+        width: 310
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9747bc7022b5ea3b0800000000000000
+      internalID: -5499357893255007111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapColored_22
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 754
+        width: 312
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91584e5067e915da0800000000000000
+      internalID: -5957806602292263655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapColored_23
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 754
+        width: 315
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f90716409300e21d0800000000000000
+      internalID: -3373758825967292257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapColored_24
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 411
+        width: 319
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5399cb77fe79f7b0800000000000000
+      internalID: -5189977494168956066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapColored_25
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 411
+        width: 315
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acabdc49ad42f1df0800000000000000
+      internalID: -207406536617772342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapColored_26
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 411
+        width: 313
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f6dd64ecae409d50800000000000000
+      internalID: 6741975146647377656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapColored_27
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 411
+        width: 313
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a764501b2e3b990800000000000000
+      internalID: -7371298915149776336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapColored_28
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 411
+        width: 316
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b82256c51bf7660800000000000000
+      internalID: 7385816924302773125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapColored_29
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 411
+        width: 319
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28bf3e2bf60893430800000000000000
+      internalID: 3763180180875770754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapColored_30
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 63
+        width: 322
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad1f7690f91c693b0800000000000000
+      internalID: -5506000605612084774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapColored_31
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 63
+        width: 319
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d68f15dd4536040800000000000000
+      internalID: 4639645350661483917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapColored_32
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 63
+        width: 316
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64afe1233fe703370800000000000000
+      internalID: 8300273696226867782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapColored_33
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 63
+        width: 315
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27834c45107b925e0800000000000000
+      internalID: -1933813348633921422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapColored_34
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 63
+        width: 319
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad02816464aecc00800000000000000
+      internalID: 922855724697128359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapColored_35
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 63
+        width: 322
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a4b7a73904e0bb0800000000000000
+      internalID: -4967962336783807860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MapColored_0: 6662072696272016307
+      MapColored_1: -6565593158172815437
+      MapColored_10: -668035513144328809
+      MapColored_11: 7189329900431558794
+      MapColored_12: 7217264996516561753
+      MapColored_13: -2018371554038954417
+      MapColored_14: -8278601427221163018
+      MapColored_15: 20629632417423676
+      MapColored_16: 2841678163961104469
+      MapColored_17: -1050466042068364597
+      MapColored_18: 6117614683545351093
+      MapColored_19: -3299915412479090932
+      MapColored_2: 8207039474491699713
+      MapColored_20: 2513225584811975432
+      MapColored_21: -5499357893255007111
+      MapColored_22: -5957806602292263655
+      MapColored_23: -3373758825967292257
+      MapColored_24: -5189977494168956066
+      MapColored_25: -207406536617772342
+      MapColored_26: 6741975146647377656
+      MapColored_27: -7371298915149776336
+      MapColored_28: 7385816924302773125
+      MapColored_29: 3763180180875770754
+      MapColored_3: -2995946779182932003
+      MapColored_30: -5506000605612084774
+      MapColored_31: 4639645350661483917
+      MapColored_32: 8300273696226867782
+      MapColored_33: -1933813348633921422
+      MapColored_34: 922855724697128359
+      MapColored_35: -4967962336783807860
+      MapColored_4: -567306739538464666
+      MapColored_5: -8598480966491214634
+      MapColored_6: -2149109597283884973
+      MapColored_7: -5851913191983853397
+      MapColored_8: -185335679464283212
+      MapColored_9: -7928198381735859484
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
